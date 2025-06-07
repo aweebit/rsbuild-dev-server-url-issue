@@ -1,0 +1,11 @@
+{
+  "name": "rsbuild-dev-server-url-issue",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "rsbuild"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.3.22"
+  }
+}
